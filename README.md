@@ -1,5 +1,7 @@
 # 🧠 Employee Attrition Prediction System
 
+**Author:** Yousef Mohamed
+
 > A production-ready, full-stack HR Analytics platform that predicts employee attrition risk, explains model decisions using SHAP, and generates personalised HR retention recommendations.
 
 ---
@@ -608,3 +610,74 @@ joblib==1.4.2
 ---
 
 *Built with FastAPI · XGBoost · SHAP · React · Tailwind CSS · Recharts*
+
+
+## Author
+
+This project was designed, developed, and documented by **Yousef Mohamed**.
+
+
+
+<h1 align="left">Hi 👋! My name is Yousef Mohamed</h1>
+
+###
+
+<h2 align="left">🚀 About Me</h2>
+
+###
+
+<p align="left">I'm a Machine Learning Engineer</p>
+
+###
+
+<h3 align="left">🔗 Links</h3>
+
+###
+
+<div align="left">
+  <a href="www.linkedin.com/in/yousef-mohamed-5ba742322" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<h3 align="left">🛠 Skills</h3>
+
+###
+
+<p align="left">- Python  <br>- Statistics <br>- SQL <br>- Machine Learning <br>- Deep Learning<br>- Artificial Intelligence<br>- Data Science</p>
+
+###
+
+<h3 align="left">Summary Of My Journey</h3>
+
+###
+
+<p align="left">✨ Creating bugs since my first Python script<br>📚 I'm currently learning advanced Machine Learning, Deep Learning, NLP, and Computer Vision while building full-stack AI applications<br>🎯 Goals: Become an AI engineer specializing in intelligent systems, recommendation engines, and real-world deep learning solutions<br>🎲 Fun fact: I’m a huge football and Formula 1 fan — I support Al Ahly SC and my favorite F1 driver is Lewis Hamilton 🏎️🔥</p>
+
+###
+
+<h2 align="left">My tech Stack</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+</div>
+
+###
