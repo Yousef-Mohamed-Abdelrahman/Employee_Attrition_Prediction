@@ -46,7 +46,7 @@ The model was trained on IBM's HR Employee Attrition dataset using **XGBoost** w
 
 ---
 
-## Screenshots
+## ScreenShots
 
 ![My ScreenShot](ScreenShots/Screen_1.png)
 ![My ScreenShot](ScreenShots/Screen_2.png)
