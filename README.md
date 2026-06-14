@@ -9,7 +9,7 @@
 ## 📋 Table of Contents
 
 1. [Project Overview](#-project-overview)
-2. [ScreenShots](#-ScreenShots)
+2. [ScreenShots](#-Screen-Shots)
 3. [Tech Stack](#-tech-stack)
 4. [Project Structure](#-project-structure)
 5. [Research & Data Pipeline](#-research--data-pipeline)
